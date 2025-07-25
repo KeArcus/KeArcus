@@ -23,6 +23,7 @@ Hello, I'm Allen.  Nice to see you here.
 Time to level up my GitHub game! You'll see me around open-source projects and discussions. Don't hesitate to say hi! 👋
 
 - 📫 How to reach me: caoke020@gmail.com
+- 💬 Share my idea and experience: https://blog.lifemetrics.icu
 
 <!-- Copy-paste in your Readme.md file -->
 
